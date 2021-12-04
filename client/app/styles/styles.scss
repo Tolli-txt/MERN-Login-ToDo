@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+@import 'vendor/normalize';
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(60, 60, 60);
+}
+
+.mainTitle{
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.loginContainer{
+    color: whitesmoke;
+    border-radius: 5%;
+    background-color: rgb(85, 85, 85);
+    margin-left: 37%;
+    margin-right: 37%;
+    padding: 1%;
+    font-size: 25px;
+    font: bold;
+}
+
+.registerContainer{
+    color: whitesmoke;
+    border-radius: 5%;
+    background-color: rgb(85, 85, 85);
+    margin-left: 37%;
+    margin-right: 37%;
+    padding: 1%;
+    font-size: 25px;
+}
+
+.toDoContainer{
+    color: whitesmoke;
+    border-radius: 5%;
+    background-color: rgb(85, 85, 85);
+    margin-left: 37%;
+    margin-right: 37%;
+    padding: 2%;
+    font-size: 25px;
+    font: bold; 
+}
+
+.inputField{
+    padding: 7px;
+    font-size: 20px;
+}
+
+.button{
+    padding: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgb(64, 165, 64);
+    color: black;
+}
+
+.toDoButton{
+    padding: 7px;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font: bold;
+}
